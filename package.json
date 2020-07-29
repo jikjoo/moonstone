@@ -1,7 +1,7 @@
 {
-  "name": "@enact/moonstone",
-  "version": "3.2.5",
-  "description": "Large-screen/TV support library for Enact, containing a variety of UI components.",
+  "name": "@jikjoo/moonstone",
+  "version": "3.2.52",
+  "description": "from @enact/moonstone, Large-screen/TV support library for Enact, containing a variety of UI components.",
   "main": "index.js",
   "scripts": {
     "clean": "enact clean",
@@ -46,5 +46,17 @@
   },
   "devDependencies": {
     "ilib": "^14.4.0"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jikjoo/moonstone.git"
+  },
+  "author": "jikjoo <pillast777@naver.com> (https://github.com/jikjoo)",
+  "bugs": {
+    "url": "https://github.com/jikjoo/moonstone/issues"
+  },
+  "homepage": "https://github.com/jikjoo/moonstone#readme"
 }

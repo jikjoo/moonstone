@@ -1,6 +1,9 @@
 # Change Log
 
 The following is a curated list of changes in the Enact moonstone module, newest changes on the top.
+## [3.2.6] - 2020-07-29
+
+- change color.less
 
 ## [3.2.5] - 2019-11-14
 
